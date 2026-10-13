@@ -55,7 +55,7 @@
  <img src="docs/images/fastgen-hero-dark.png#gh-dark-mode-only" width="800px">
 </div>
 
-* 我们于 2022 年[首次发布 MII](https://www.deepspeed.ai/2022/10/10/mii.html)，涵盖了 v0.0.9 及之前的所有历史版本。除了语言模型外，我们还支持加速 [Stable Diffusion 等文生图模型 (text2image)](examples/benchmark/txt2img)。有关更早版本的详细信息，请参阅我们的[传统 Legacy API](mii/legacy/)。
+* 我们于 2022 年[首次发布 MII](https://www.deepspeed.ai/2022/10/10/mii.html)，涵盖了 v0.0.9 及之前的所有历史版本。除了语言模型外，我们还支持加速 [Stable Diffusion 等文生图模型 (text2image)](mii/legacy/examples/benchmark/txt2img)。有关更早版本的详细信息，请参阅我们的[传统 Legacy API](mii/legacy/)。
 
 # 核心关键技术
 
